@@ -103,4 +103,4 @@ node tests/manualTest.js
 ```
 
 Runs `analyzeFlowLog` against the generated flow log file and prints
-matched rows and connection counts. T
+matched rows and connection counts.
